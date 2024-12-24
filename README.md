@@ -46,11 +46,4 @@ Currently, I lead a team, mentoring other developers while staying hands-on with
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajaynp042&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaynp042&layout=compact&theme=radical)  
-
----
-
 ✨ **Let’s connect and collaborate on building impactful web experiences!**  
