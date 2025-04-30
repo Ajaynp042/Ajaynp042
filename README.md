@@ -12,7 +12,7 @@
 
 ## 🌟 A Bit About My Journey  
 
-I’m a dedicated **Frontend Developer** with over 6 months of experience at **AekAds/ElekGo Technology**. Starting as an intern and progressing to a full-time role, I’ve had the opportunity to work on a variety of projects that helped me grow as both a developer and a team leader.  
+I’m a dedicated **Frontend Developer** with over 1 months of experience at **AekAds/ElekGo Technology**. Starting as an intern and progressing to a full-time role, I’ve had the opportunity to work on a variety of projects that helped me grow as both a developer and a team leader.  
 
 My focus is on crafting **high-performance, user-friendly web solutions** by collaborating seamlessly with designers and backend developers. I prioritize **performance optimization**, ensuring fast load times and smooth interactions across devices.  
 
