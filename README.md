@@ -6,7 +6,7 @@
 ## 📫 How to Reach Me:  
 - **Email:** [apajdiv042@gmail.com](mailto:apajdiv042@gmail.com)  
 - **LinkedIn:** [Ajay Panchal](https://www.linkedin.com/in/ajay-panchal0042/)  
-- **Location:** Gandhinagar, India  
+- **Location:** Ahmedabad, India  
 
 ---
 
